@@ -1,7 +1,27 @@
 This is the first command to run.
 
-**** 1. git status ****
-to check the status of the git repository of the selected folder.
+1. git status
+	=> to check the status of the git repository of the selected folder.
 
-**** 2. git init ****
-to initialize the git repository and start tracing files of the folder
+2. git init
+	=> to initialize the git repository and start tracing files of the folder
+
+git status
+
+3. git add --a     or    git add .
+	=> to add all to staging area
+
+4. git commit -m "Description of commit: Added First file"
+	=> to add all staging files to git repository to trace/rollback/commit to github
+
+5. git remote add origin git@github.com:repo_name
+	=> to add remote repository to the git name-'origin'
+
+6. git branch -M main
+	=> to select the branch of repo where the files is to be written in remote repository
+
+7. git push -u origin branch_name
+	=>  to write files to remote repository to mentioned branch
+
+ 
+
