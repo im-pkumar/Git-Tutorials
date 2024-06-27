@@ -1,0 +1,7 @@
+This is the first command to run.
+
+**** 1. git status ****
+to check the status of the git repository of the selected folder.
+
+**** 2. git init ****
+to initialize the git repository and start tracing files of the folder
