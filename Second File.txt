@@ -1,0 +1,6 @@
+This files tells use how to select which file to commit ie
+if multiple files exists but only few is to be commited.
+
+1. git status
+2. git add file_name
+3. git commit -m "description of commit"
